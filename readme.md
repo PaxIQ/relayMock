@@ -20,7 +20,7 @@ nvm install node
 ## Install Script
 
 ```bash
-git clone git@github.com:PaxIQ/relayMock.git
+git clone https://git@github.com/PaxIQ/relayMock.git
 cd relayMock
 npm i
 ```
